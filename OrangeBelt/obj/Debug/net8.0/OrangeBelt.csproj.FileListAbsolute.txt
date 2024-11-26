@@ -1,0 +1,5 @@
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/obj/Debug/net8.0/OrangeBelt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/obj/Debug/net8.0/OrangeBelt.AssemblyInfoInputs.cache
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/obj/Debug/net8.0/OrangeBelt.AssemblyInfo.cs
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/obj/Debug/net8.0/OrangeBelt.csproj.CoreCompileInputs.cache
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/obj/Debug/net8.0/OrangeBelt.sourcelink.json

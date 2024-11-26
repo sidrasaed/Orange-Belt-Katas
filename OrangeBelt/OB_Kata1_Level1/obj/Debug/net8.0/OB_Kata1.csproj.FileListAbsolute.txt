@@ -1,0 +1,15 @@
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata1/bin/Debug/net8.0/OB_Kata1
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata1/bin/Debug/net8.0/OB_Kata1.deps.json
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata1/bin/Debug/net8.0/OB_Kata1.runtimeconfig.json
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata1/bin/Debug/net8.0/OB_Kata1.dll
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata1/bin/Debug/net8.0/OB_Kata1.pdb
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata1/obj/Debug/net8.0/OB_Kata1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata1/obj/Debug/net8.0/OB_Kata1.AssemblyInfoInputs.cache
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata1/obj/Debug/net8.0/OB_Kata1.AssemblyInfo.cs
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata1/obj/Debug/net8.0/OB_Kata1.csproj.CoreCompileInputs.cache
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata1/obj/Debug/net8.0/OB_Kata1.sourcelink.json
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata1/obj/Debug/net8.0/OB_Kata1.dll
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata1/obj/Debug/net8.0/refint/OB_Kata1.dll
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata1/obj/Debug/net8.0/OB_Kata1.pdb
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata1/obj/Debug/net8.0/OB_Kata1.genruntimeconfig.cache
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata1/obj/Debug/net8.0/ref/OB_Kata1.dll

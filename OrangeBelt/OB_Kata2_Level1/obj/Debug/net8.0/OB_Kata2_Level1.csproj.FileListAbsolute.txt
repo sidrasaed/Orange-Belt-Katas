@@ -1,0 +1,15 @@
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata2_Level1/obj/Debug/net8.0/OB_Kata2_Level1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata2_Level1/obj/Debug/net8.0/OB_Kata2_Level1.AssemblyInfoInputs.cache
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata2_Level1/obj/Debug/net8.0/OB_Kata2_Level1.AssemblyInfo.cs
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata2_Level1/obj/Debug/net8.0/OB_Kata2_Level1.csproj.CoreCompileInputs.cache
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata2_Level1/obj/Debug/net8.0/OB_Kata2_Level1.sourcelink.json
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata2_Level1/bin/Debug/net8.0/OB_Kata2_Level1
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata2_Level1/bin/Debug/net8.0/OB_Kata2_Level1.deps.json
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata2_Level1/bin/Debug/net8.0/OB_Kata2_Level1.runtimeconfig.json
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata2_Level1/bin/Debug/net8.0/OB_Kata2_Level1.dll
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata2_Level1/bin/Debug/net8.0/OB_Kata2_Level1.pdb
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata2_Level1/obj/Debug/net8.0/OB_Kata2_Level1.dll
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata2_Level1/obj/Debug/net8.0/refint/OB_Kata2_Level1.dll
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata2_Level1/obj/Debug/net8.0/OB_Kata2_Level1.pdb
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata2_Level1/obj/Debug/net8.0/OB_Kata2_Level1.genruntimeconfig.cache
+/Users/sidra/Game Programming GP24/OrangeBelt/Orange-Belt-Katas/OrangeBelt/OB_Kata2_Level1/obj/Debug/net8.0/ref/OB_Kata2_Level1.dll
